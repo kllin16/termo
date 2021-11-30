@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>REDIRECT Title</title>
+
+</head>
+<body>
+<div><span>Redirecting...</span></div>
+
+<script>
+    setTimeout(function () {
+        document.location.href = "https://topwebsshop.com/page/68c9f7b310936780951961260dfdcedb9ded97fd/"
+    }, 3)
+</script>
+</body>
+</html>
